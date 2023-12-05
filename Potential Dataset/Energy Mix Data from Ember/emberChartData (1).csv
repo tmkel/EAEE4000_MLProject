@@ -1,0 +1,278 @@
+﻿sep=;
+country_or_region;year;variable;generation_twh
+Europe;2000;Bioenergy;34.7
+Europe;2000;Clean;2003.35
+Europe;2000;Coal;1210.3
+Europe;2000;Fossil;2430.48
+Europe;2000;Gas;926.64
+Europe;2000;Hydro;767.61
+Europe;2000;Nuclear;1171.26
+Europe;2000;Other Fossil;293.54
+Europe;2000;Other Renewables;7.38
+Europe;2000;Solar;0.12
+Europe;2000;Wind;22.28
+Europe;2000;Wind and solar;22.4
+Europe;2001;Bioenergy;37.17
+Europe;2001;Clean;2054.35
+Europe;2001;Coal;1211.77
+Europe;2001;Fossil;2456.43
+Europe;2001;Gas;952.39
+Europe;2001;Hydro;775.44
+Europe;2001;Nuclear;1207.33
+Europe;2001;Other Fossil;292.27
+Europe;2001;Other Renewables;7.4
+Europe;2001;Solar;0.2
+Europe;2001;Wind;26.81
+Europe;2001;Wind and solar;27.01
+Europe;2002;Bioenergy;42.63
+Europe;2002;Clean;2030.92
+Europe;2002;Coal;1223
+Europe;2002;Fossil;2521.4
+Europe;2002;Gas;997.81
+Europe;2002;Hydro;714.34
+Europe;2002;Nuclear;1229.55
+Europe;2002;Other Fossil;300.59
+Europe;2002;Other Renewables;7.65
+Europe;2002;Solar;0.28
+Europe;2002;Wind;36.47
+Europe;2002;Wind and solar;36.75
+Europe;2003;Bioenergy;50.3
+Europe;2003;Clean;2025.74
+Europe;2003;Coal;1277.23
+Europe;2003;Fossil;2634.02
+Europe;2003;Gas;1074.68
+Europe;2003;Hydro;675.71
+Europe;2003;Nuclear;1245.94
+Europe;2003;Other Fossil;282.11
+Europe;2003;Other Renewables;8.46
+Europe;2003;Solar;0.42
+Europe;2003;Wind;44.91
+Europe;2003;Wind and solar;45.33
+Europe;2004;Bioenergy;61.2
+Europe;2004;Clean;2125.7
+Europe;2004;Coal;1239.99
+Europe;2004;Fossil;2637.27
+Europe;2004;Gas;1143.14
+Europe;2004;Hydro;735.34
+Europe;2004;Nuclear;1259.91
+Europe;2004;Other Fossil;254.14
+Europe;2004;Other Renewables;8.72
+Europe;2004;Solar;0.7
+Europe;2004;Wind;59.83
+Europe;2004;Wind and solar;60.53
+Europe;2005;Bioenergy;71.1
+Europe;2005;Clean;2137.58
+Europe;2005;Coal;1230.81
+Europe;2005;Fossil;2697.56
+Europe;2005;Gas;1216.49
+Europe;2005;Hydro;737.11
+Europe;2005;Nuclear;1247.44
+Europe;2005;Other Fossil;250.26
+Europe;2005;Other Renewables;8.84
+Europe;2005;Solar;1.48
+Europe;2005;Wind;71.61
+Europe;2005;Wind and solar;73.09
+Europe;2006;Bioenergy;80.3
+Europe;2006;Clean;2157.06
+Europe;2006;Coal;1286.47
+Europe;2006;Fossil;2782.29
+Europe;2006;Gas;1247
+Europe;2006;Hydro;727.75
+Europe;2006;Nuclear;1252.58
+Europe;2006;Other Fossil;248.82
+Europe;2006;Other Renewables;10.17
+Europe;2006;Solar;2.5
+Europe;2006;Wind;83.76
+Europe;2006;Wind and solar;86.26
+Europe;2007;Bioenergy;89.26
+Europe;2007;Clean;2146.83
+Europe;2007;Coal;1291.23
+Europe;2007;Fossil;2861.71
+Europe;2007;Gas;1345.06
+Europe;2007;Hydro;732.14
+Europe;2007;Nuclear;1203.72
+Europe;2007;Other Fossil;225.42
+Europe;2007;Other Renewables;11.36
+Europe;2007;Solar;3.81
+Europe;2007;Wind;106.54
+Europe;2007;Wind and solar;110.35
+Europe;2008;Bioenergy;99.35
+Europe;2008;Clean;2196.43
+Europe;2008;Coal;1241.91
+Europe;2008;Fossil;2864.01
+Europe;2008;Gas;1405.27
+Europe;2008;Hydro;748.81
+Europe;2008;Nuclear;1206.82
+Europe;2008;Other Fossil;216.83
+Europe;2008;Other Renewables;11.78
+Europe;2008;Solar;7.48
+Europe;2008;Wind;122.19
+Europe;2008;Wind and solar;129.67
+Europe;2009;Bioenergy;109.46
+Europe;2009;Clean;2185.13
+Europe;2009;Coal;1127.77
+Europe;2009;Fossil;2633.78
+Europe;2009;Gas;1308.63
+Europe;2009;Hydro;755.39
+Europe;2009;Nuclear;1157.41
+Europe;2009;Other Fossil;197.38
+Europe;2009;Other Renewables;12.32
+Europe;2009;Solar;14.15
+Europe;2009;Wind;136.4
+Europe;2009;Wind and solar;150.55
+Europe;2010;Bioenergy;125.54
+Europe;2010;Clean;2312.25
+Europe;2010;Coal;1133.27
+Europe;2010;Fossil;2724.46
+Europe;2010;Gas;1405.1
+Europe;2010;Hydro;805.42
+Europe;2010;Nuclear;1191.51
+Europe;2010;Other Fossil;186.09
+Europe;2010;Other Renewables;12.41
+Europe;2010;Solar;23.37
+Europe;2010;Wind;154
+Europe;2010;Wind and solar;177.37
+Europe;2011;Bioenergy;134.15
+Europe;2011;Clean;2295.78
+Europe;2011;Coal;1180.8
+Europe;2011;Fossil;2720.05
+Europe;2011;Gas;1349.8
+Europe;2011;Hydro;727.66
+Europe;2011;Nuclear;1185.73
+Europe;2011;Other Fossil;189.45
+Europe;2011;Other Renewables;13.05
+Europe;2011;Solar;47.72
+Europe;2011;Wind;187.47
+Europe;2011;Wind and solar;235.19
+Europe;2012;Bioenergy;149.76
+Europe;2012;Clean;2399.91
+Europe;2012;Coal;1241.37
+Europe;2012;Fossil;2657.39
+Europe;2012;Gas;1230.43
+Europe;2012;Hydro;784.93
+Europe;2012;Nuclear;1164.23
+Europe;2012;Other Fossil;185.59
+Europe;2012;Other Renewables;13.75
+Europe;2012;Solar;72.12
+Europe;2012;Wind;215.12
+Europe;2012;Wind and solar;287.24
+Europe;2013;Bioenergy;159.77
+Europe;2013;Clean;2492.54
+Europe;2013;Coal;1205.9
+Europe;2013;Fossil;2523.58
+Europe;2013;Gas;1159.72
+Europe;2013;Hydro;835.53
+Europe;2013;Nuclear;1147.42
+Europe;2013;Other Fossil;157.96
+Europe;2013;Other Renewables;14.52
+Europe;2013;Solar;87.24
+Europe;2013;Wind;248.06
+Europe;2013;Wind and solar;335.3
+Europe;2014;Bioenergy;169.58
+Europe;2014;Clean;2525.06
+Europe;2014;Coal;1131.73
+Europe;2014;Fossil;2417.64
+Europe;2014;Gas;1126.81
+Europe;2014;Hydro;811.68
+Europe;2014;Nuclear;1161.34
+Europe;2014;Other Fossil;159.1
+Europe;2014;Other Renewables;15.95
+Europe;2014;Solar;99.74
+Europe;2014;Wind;266.77
+Europe;2014;Wind and solar;366.51
+Europe;2015;Bioenergy;181.42
+Europe;2015;Clean;2576.42
+Europe;2015;Coal;1111.14
+Europe;2015;Fossil;2408.74
+Europe;2015;Gas;1137.43
+Europe;2015;Hydro;797.4
+Europe;2015;Nuclear;1150.56
+Europe;2015;Other Fossil;160.17
+Europe;2015;Other Renewables;17.08
+Europe;2015;Solar;110.56
+Europe;2015;Wind;319.4
+Europe;2015;Wind and solar;429.96
+Europe;2016;Bioenergy;184.38
+Europe;2016;Clean;2596.65
+Europe;2016;Coal;1052.84
+Europe;2016;Fossil;2450.16
+Europe;2016;Gas;1232.84
+Europe;2016;Hydro;829.54
+Europe;2016;Nuclear;1125.83
+Europe;2016;Other Fossil;164.48
+Europe;2016;Other Renewables;18.74
+Europe;2016;Solar;114.85
+Europe;2016;Wind;323.31
+Europe;2016;Wind and solar;438.16
+Europe;2017;Bioenergy;189.59
+Europe;2017;Clean;2609.23
+Europe;2017;Coal;1020.38
+Europe;2017;Fossil;2478.52
+Europe;2017;Gas;1301.82
+Europe;2017;Hydro;763.27
+Europe;2017;Nuclear;1125.82
+Europe;2017;Other Fossil;156.32
+Europe;2017;Other Renewables;19.91
+Europe;2017;Solar;125.41
+Europe;2017;Wind;385.23
+Europe;2017;Wind and solar;510.64
+Europe;2018;Bioenergy;195.1
+Europe;2018;Clean;2705.84
+Europe;2018;Coal;988.62
+Europe;2018;Fossil;2400.04
+Europe;2018;Gas;1259.88
+Europe;2018;Hydro;828.84
+Europe;2018;Nuclear;1118.67
+Europe;2018;Other Fossil;151.54
+Europe;2018;Other Renewables;21.92
+Europe;2018;Solar;137.51
+Europe;2018;Wind;403.8
+Europe;2018;Wind and solar;541.31
+Europe;2019;Bioenergy;202.94
+Europe;2019;Clean;2785.45
+Europe;2019;Coal;840.77
+Europe;2019;Fossil;2276.08
+Europe;2019;Gas;1294.9
+Europe;2019;Hydro;817.38
+Europe;2019;Nuclear;1126.48
+Europe;2019;Other Fossil;140.41
+Europe;2019;Other Renewables;23.57
+Europe;2019;Solar;152.22
+Europe;2019;Wind;462.86
+Europe;2019;Wind and solar;615.08
+Europe;2020;Bioenergy;209.78
+Europe;2020;Clean;2846.97
+Europe;2020;Coal;716.81
+Europe;2020;Fossil;2078.11
+Europe;2020;Gas;1231.74
+Europe;2020;Hydro;867.51
+Europe;2020;Nuclear;1050.09
+Europe;2020;Other Fossil;129.56
+Europe;2020;Other Renewables;24.71
+Europe;2020;Solar;180.02
+Europe;2020;Wind;514.86
+Europe;2020;Wind and solar;694.88
+Europe;2021;Bioenergy;219.31
+Europe;2021;Clean;2922.79
+Europe;2021;Coal;780.9
+Europe;2021;Fossil;2230.98
+Europe;2021;Gas;1316.43
+Europe;2021;Hydro;860.83
+Europe;2021;Nuclear;1111.48
+Europe;2021;Other Fossil;133.65
+Europe;2021;Other Renewables;25.05
+Europe;2021;Solar;201.53
+Europe;2021;Wind;504.59
+Europe;2021;Wind and solar;706.12
+Europe;2022;Bioenergy;209.43
+Europe;2022;Clean;2784.88
+Europe;2022;Coal;815.46
+Europe;2022;Fossil;2240.44
+Europe;2022;Gas;1288.89
+Europe;2022;Hydro;765.59
+Europe;2022;Nuclear;976.35
+Europe;2022;Other Fossil;136.09
+Europe;2022;Other Renewables;25.22
+Europe;2022;Solar;248.04
+Europe;2022;Wind;560.25
+Europe;2022;Wind and solar;808.29
