@@ -129,9 +129,9 @@ x_train_dataset1 = xr.merge([bottomT_train, siconc_train, so_train, vo_train, vs
 y_train_dataset1 = sithick_train
 
 # example 2 input: 1993 -2018, output:2019-2023
-
 x_train_dataset1 = xr.merge([bottomT_train, siconc_train, so_train, vo_train, vsi_train, uo_train, thetao_train, usi_train])
 y_train_dataset1 = sithick_test
+
 # # Access the specific dataset from the dictionary
 # selected_dataset = testing_data['vsi_merged.nc']
 # selected_data_at_first_time_step = selected_dataset.isel(time=0,latitude=0,longitude=0)
