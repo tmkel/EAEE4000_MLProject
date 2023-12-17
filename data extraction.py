@@ -1,8 +1,15 @@
+"""
+data extraction.py
+1.
+"""
+
 import xarray as xr
 import os
 import matplotlib.pyplot as plt
 
-#vsi loss data !!!!
+#vsi loss data !!!!, lose a large portion of data, 
+#
+#cwd
 train_path = 'C:\\Users\\12603\\Desktop\\sea ice\\EAEE4000_MLProject\\sea ice thickness dataset\\site selection one-greenland'
 test_path = 'C:\\Users\\12603\\Desktop\\sea ice\\EAEE4000_MLProject\\sea ice thickness dataset\\site selection one-greenland'
 
