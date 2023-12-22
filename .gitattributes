@@ -1,0 +1,2 @@
+sea[[:space:]]ice[[:space:]]thickness[[:space:]]dataset/bering_strait/Merged/*.nc filter=lfs diff=lfs merge=lfs -text
+sea[[:space:]]ice[[:space:]]thickness[[:space:]]dataset/bering_strait/*.nc filter=lfs diff=lfs merge=lfs -text
