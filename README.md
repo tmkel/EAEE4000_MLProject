@@ -5,3 +5,4 @@
 4. "saved_model" stores final model in .h5 format
 
 5. "sea ice thickness" only store dataset for Greenland. Bering Strait dataset is too large to upload, so may download via scirpt first.
+6. Raw dataset comes from [Copernicus Marine Data Store](https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_PHY_001_030/description).
